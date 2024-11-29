@@ -12,7 +12,6 @@ export default function Home() {
         <div class="text-left leading-8 font-black mt-8">
           <div>1. 自由定制棋盘内容</div>
           <div>2. 预设不同阶段互动内容 恋爱，情趣，好玩。满足各种口味快速开局。</div>
-          <div>3. 获取源码定制，一键接入自有app小程序, 公众号</div>
         </div>
         <div class="text-center mt-8">
           <div class="font-black my-4">游戏列表</div>
